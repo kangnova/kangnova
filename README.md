@@ -26,8 +26,8 @@
 ## Let's connect
 
 - GitHub: [@kangnova](https://github.com/kangnova)
+- 💼 LinkedIn: [Nova Suharyanto](https://www.linkedin.com/in/nova-suharyanto-789262a3/)
 - 📧 Email: _your email here_
-- 💼 LinkedIn: _your LinkedIn here_
 
 ---
 
