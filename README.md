@@ -19,8 +19,8 @@
 | [JernihAI](https://github.com/kangnova/JernihAI) | AI photo enhancement — 2x/4x upscale, face restoration & denoise | Python |
 | [g1-petshop-catalog](https://github.com/kangnova/g1-petshop-catalog) | B2B & B2C digital catalog platform | Next.js · Supabase |
 | [fin-track-core](https://github.com/kangnova/fin-track-core) | Personal finance backend with clean architecture | TypeScript |
-| [classroom-reservation-system](https://github.com/kangnova/classroom-reservation-system) | Campus room booking with conflict detection | React · PostgreSQL |
-| [house-build-tracker](https://github.com/kangnova/house-build-tracker) | Construction budget & materials tracker | TypeScript |
+| [house-build-tracker](https://github.com/kangnova/house-build-tracker) | Construction budget & materials tracker | Next.js · TypeScript |
+| [imm-react](https://github.com/kangnova/imm-react) | Organization website & admin panel (Muhammadiyah student org) | React 19 · Supabase |
 | [self-talk](https://github.com/kangnova/self-talk) | English fluency practice tool for Indonesian learners | PHP |
 
 ## Let's connect
