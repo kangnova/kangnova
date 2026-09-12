@@ -27,7 +27,7 @@
 
 - GitHub: [@kangnova](https://github.com/kangnova)
 - 💼 LinkedIn: [Nova Suharyanto](https://www.linkedin.com/in/nova-suharyanto-789262a3/)
-- 📧 Email: _your email here_
+- 📧 Email: imedia287@gmail.com
 
 ---
 
